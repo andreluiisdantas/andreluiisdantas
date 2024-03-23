@@ -2,7 +2,7 @@
 <h1>Olá, Sou o André</h1>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=andreluiisdantas&theme=radical&mode=weekly" />
+![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
  </div>
  
  &nbsp;
