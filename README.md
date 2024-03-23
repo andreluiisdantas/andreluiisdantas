@@ -1,9 +1,9 @@
 
 <h1>Olá, Sou o André</h1>
 
-<div  align="center" style="margin-bottom:100px">
+
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
- </div>
+
  
  &nbsp;
  &nbsp;
