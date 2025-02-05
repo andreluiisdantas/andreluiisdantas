@@ -1,8 +1,6 @@
 
 <h1>Olá, Sou o André 👋</h1>
-<h2>Aprendiz em Soluções Digitais - Bosch Campinas</h2>
-<h2>Cursando Ciência da Computação</h2>
-<h2>Cursando Desenvolvimento de Sistemas</h2>
+
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
 
