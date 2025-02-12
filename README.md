@@ -12,6 +12,10 @@
 
 :dart: With discipline and determination, I pursue my goals while learning and evolving every day.
 Apprentice in Digital Solution at Bosch
+
+:blue_book: Studing Computer Science at Unimetrocamp Wyden
+:closed_book: Studing Systems Development at Senai "Roberto Mange"
+
 &nbsp;
 
 ## My Skills
