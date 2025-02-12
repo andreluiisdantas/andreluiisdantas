@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm André:wave:</h1>
+<h1>Hi, I'm André👋</h1>
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
 
