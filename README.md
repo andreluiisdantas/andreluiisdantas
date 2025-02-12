@@ -11,11 +11,14 @@
 ## About Me
 
 :dart: With discipline and determination, I pursue my goals while learning and evolving every day.
-Apprentice in Digital Solution at Bosch
 
 &nbsp;
 
+## Work
+Apprentice in Digital Solution at Bosch
+
 ## Studies
+
 
 :blue_book: Studing Computer Science at Unimetrocamp Wyden
 
