@@ -8,6 +8,9 @@
  &nbsp;
 
 
+## Work
+Apprentice in Digital Solution at Bosch
+&nbsp;
 
 ## My Skills
 
