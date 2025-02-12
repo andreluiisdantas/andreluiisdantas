@@ -15,7 +15,7 @@
 &nbsp;
 
 ## Work
-Apprentice in Digital Solution at Bosch
+:man_technologist: Apprentice in Digital Solution at Bosch
 
 ## Studies
 
