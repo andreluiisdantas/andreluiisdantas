@@ -14,7 +14,7 @@
 Apprentice in Digital Solution at Bosch
 
 :blue_book: Studing Computer Science at Unimetrocamp Wyden
-&nbsp;
+
 :closed_book: Studing Systems Development at Senai "Roberto Mange"
 
 &nbsp;
