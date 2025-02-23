@@ -2,7 +2,8 @@
 <h1>Hi, I'm André👋</h1>
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/andreluiisdantas/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/andreluiisdantas)
 
 
  
