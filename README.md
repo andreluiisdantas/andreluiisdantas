@@ -3,7 +3,7 @@
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiisdantas&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiisdanta&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiisdanta&hide=javascript,html)](https://github.com/andreluiisdanta/github-readme-stats)
 
 
  
